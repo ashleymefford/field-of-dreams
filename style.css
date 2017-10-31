@@ -10,6 +10,7 @@
 	width: 200px;
 	right: 100px;
 	top: 150px;
+	z-index: 4;
 
 }
 
@@ -17,4 +18,19 @@
 	width: 500px;
 	left: 300px;
 	top: 115px;
+	z-index: 5;
+}
+
+.rugby3 {
+	width:150px;
+	left: 800px;
+	top:200px;
+	z-index: 3;
+}
+
+.rugby4 {
+	width: 300px;
+	left: 10px;
+	top: 200px;
+	z-index: 1;
 }
